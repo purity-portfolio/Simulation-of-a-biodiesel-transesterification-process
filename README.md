@@ -55,7 +55,7 @@ The flowsheet is structured around four sequential sections:
 
 ### Process Flowsheet
 
-![Aspen PLUS Flowsheet](flowsheet.png)
+![Aspen PLUS Flowsheet](AspenPLUS.png)
 
 ---
 
