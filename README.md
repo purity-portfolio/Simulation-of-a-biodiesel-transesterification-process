@@ -66,7 +66,9 @@ The flowsheet is structured around four sequential sections:
 | NAOH | Sodium Hydroxide | 0.2214 | 8.856 | 25 | 101.325 |
 
 **Methanol-to-oil molar ratio (base case):** 6:1
+
 **Theoretical maximum FAME production:** 1.00 kgmol/hr × 3 × 296.49 kg/kgmol = 889.47 kg/hr
+
 ---
 
 ## Reaction Kinetics — Vicente et al. (2005)
