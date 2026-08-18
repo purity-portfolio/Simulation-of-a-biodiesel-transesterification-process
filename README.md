@@ -88,7 +88,7 @@ The transesterification reaction was modelled as three consecutive reversible re
 
 ---
 
-## 🔧 CSTR Operating Conditions
+## CSTR Operating Conditions
 
 | Parameter | Value |
 |---|---|
