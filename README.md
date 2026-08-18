@@ -22,7 +22,7 @@ The process was designed around a target feedstock of waste cooking oil (WCO), r
 | Reactor Type | CSTR (Continuous Stirred Tank Reactor) |
 | Kinetic Model | Vicente et al. (2005) — pseudo-homogeneous, 2nd order reversible |
 
-The NRTL activity coefficient model was selected for its suitability in handling the polar, non-ideal liquid mixtures present in this system — including methanol, glycerol, water, and fatty acid esters.
+The NRTL activity coefficient model was selected for its suitability in handling the polar, non-ideal liquid mixtures present in this system including methanol, glycerol, water, and fatty acid esters.
 
 ---
 
@@ -109,4 +109,4 @@ The high yield is consistent with the strong forward rate constants of the Vicen
 
 ---
 
-This simulation was developed as part of a B.Eng thesis in Chemical Engineering at the **University of Port Harcourt**, under the supervision of **Prof. Koyejo M. Oduola**. The full thesis extends this flowsheet with a structured **One-At-A-Time (OAT) sensitivity analysis** of four process variables (methanol-to-oil ratio, catalyst concentration, temperature, and residence time) on FAME yield 
+This simulation was developed as part of my B.Eng thesis in Chemical Engineering at the **University of Port Harcourt**, under the supervision of **Prof. Koyejo M. Oduola**. The full thesis extends this flowsheet with a structured One-At-A-Time (OAT) sensitivity analysis of four process variables (methanol-to-oil ratio, catalyst concentration, temperature, and residence time) on FAME yield 
